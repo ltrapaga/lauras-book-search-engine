@@ -2,6 +2,8 @@
 
 ## Description
 
+Laura's Book Search Engine is a Google Books API search engine application that is refactored to be a GraphQL API built with Apollo server, MERN stack, a React front end, MongoDB database, and Node.js/Express,js server and API. Visit [Laura's Book Search Engine](https://lauras-book-search-engine.herokuapp.com/) to start testing the performance of a Google Books API search engine!
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -32,9 +34,11 @@ The following necessary dependencies must be installed to run the application:
 
 ## Usage
 
+To use this application please visit [Laura's Book Search Engine](https://lauras-book-search-engine.herokuapp.com/)
+
 ## License
 
- [![License](<https://img.shields.io/badge/License-MIT-yellow.svg>)](<https://opensource.org/licenses/MIT>)
+[![License](<https://img.shields.io/badge/License-MIT-yellow.svg>)](<https://opensource.org/licenses/MIT>)
 
 ## Contributions
 
